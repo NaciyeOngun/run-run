@@ -1,4 +1,4 @@
 # run-run
 run game
 
-bu oyun ile 
+bu oyunda oyuncunun hareket etmesi sağlannıyor.
